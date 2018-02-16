@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <remote  name="github"
+           fetch=".." />
+
+  <default revision="master"
+           remote="github"
+           sync-j="4" />
+
+  <project name="TheMuppets/proprietary_vendor_asus" />
+  <project name="TheMuppets/proprietary_vendor_essential" />
+  <project name="TheMuppets/proprietary_vendor_fairphone" />
+  <project name="TheMuppets/proprietary_vendor_google" />
+  <project name="TheMuppets/proprietary_vendor_htc" />
+  <project name="TheMuppets/proprietary_vendor_huawei" />
+  <project name="TheMuppets/proprietary_vendor_leeco" />
+  <project name="TheMuppets/proprietary_vendor_lge" />
+  <project name="TheMuppets/proprietary_vendor_motorola" />
+  <project name="TheMuppets/proprietary_vendor_nextbit" />
+  <project name="TheMuppets/proprietary_vendor_nvidia" />
+  <project name="TheMuppets/proprietary_vendor_oneplus" />
+  <project name="TheMuppets/proprietary_vendor_oppo" />
+  <project name="TheMuppets/proprietary_vendor_samsung" />
+  <project name="TheMuppets/proprietary_vendor_sony" />
+  <project name="TheMuppets/proprietary_vendor_wileyfox" />
+  <project name="TheMuppets/proprietary_vendor_wingtech" />
+  <project name="TheMuppets/proprietary_vendor_xiaomi" />
+  <project name="TheMuppets/proprietary_vendor_yu" />
+  <project name="TheMuppets/proprietary_vendor_zuk" />
+
+</manifest>
